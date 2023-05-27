@@ -1,8 +1,14 @@
 # Android Studio
-proyecto para la plataforma Android que cumpla las siguientes características:
+Este es un proyecto en android studioo compatible con todos los dispositivos android que tengan sistema superior a 8.0(oreo)
 
-a) Debe implementar una interfaz visual que muestre los datos de su curriculum. (nombre completo, bio, educación y lista de habilidades)
+Esta aplicacion te da acceso a un menu donde puedes elegir entre los curriculums de los dos creadores, al hacer click en un boton te visualiza la pagina web con el curriculum de la persona.
 
-b) Los datos deben provenir del servidor web creado en el proyecto del parcial II la ruta es /{matricula} (debe haber una ruta por cada integrante).
+Requisitos:
+Tener android studio y un dispositivo fisico o virtual para probar el programa
 
-Se debe entregar una actividad que funcione como menú y que lleve a cada curriculum de cada miembro del equipo.
+Creadores:
+Marcela Sigala Cavazos 
+Alejandro Arturo Gonzalez Flores 348552
+
+Licencia:
+0000-0000-0000-0001
