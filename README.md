@@ -7,7 +7,7 @@ Requisitos:
 Tener android studio y un dispositivo fisico o virtual para probar el programa
 
 Creadores:
-Marcela Sigala Cavazos 
+Marcela Sigala Cavazos 348533
 Alejandro Arturo Gonzalez Flores 348552
 
 Licencia:
